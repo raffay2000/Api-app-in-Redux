@@ -1,0 +1,7 @@
+export const INCREMENT = "INCREMENT"
+export const SET_SHOW_CARDS = "SET_SHOW_CARDS"
+export const SET_USER_POST = "SET_USER_POST"
+export const SET_POST_COMMENTS = "SET_POST_COMMENTS"
+export const SET_IS_LOADING = "SET_IS_LOADING"
+// export const SET_SHOW_CARDS_DONE = "SET_SHOW_CARDS_DONE"
+
